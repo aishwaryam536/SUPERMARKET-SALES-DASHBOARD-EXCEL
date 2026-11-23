@@ -1,0 +1,41 @@
+# Key Insights
+
+## 1. Overall Sales Performance
+
+The dashboard provides an overall view of supermarket performance using key metrics such as total revenue, total units sold, total transactions, average unit price, and total tax.
+
+## 2. City-Wise Revenue
+
+Revenue varies across the three cities shown in the dashboard. **Yangon** has the highest revenue, followed by **Naypyitaw** and **Mandalay**.
+
+## 3. Product Performance
+
+Revenue and quantity are compared across different product lines. **Food and Beverages** is identified as the top product line in the Business Performance Dashboard.
+
+## 4. Revenue by Gender
+
+The dashboard compares revenue between male and female customers, providing a view of sales contribution by gender.
+
+## 5. Branch Performance
+
+The business performance dashboard compares revenue across Branches A, B, and C. **Branch C** is identified as the top branch in the dashboard.
+
+## 6. Customer Type
+
+Revenue is compared between **Member** and **Normal** customers. The dashboard shows a nearly balanced distribution between the two customer types.
+
+## 7. Tax Analysis
+
+Tax is analyzed by product line and month. The dashboard allows comparison of tax contributions across different products and monthly periods.
+
+## 8. Quantity and Unit Price
+
+The dashboard compares total quantity sold and unit prices across product categories, helping identify differences in sales volume and pricing.
+
+## 9. Interactive Analysis
+
+The dashboard includes filters for **Year, Branch, Customer Type, Gender, and City**, allowing users to interactively explore different segments of the supermarket sales data.
+
+## Overall Insight
+
+The project provides a consolidated view of supermarket sales performance by combining revenue, transactions, products, customers, branches, cities, quantity, pricing, and tax analysis in interactive Excel dashboards.
