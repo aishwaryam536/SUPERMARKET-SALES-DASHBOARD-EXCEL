@@ -125,10 +125,17 @@ Interactive Excel Dashboards
           ↓
 Business Insights
 ```
+## Key Insights
+
+- **Yangon** is the highest-revenue city among the three cities displayed.
+- **Food and Beverages** is identified as the top product line.
+- **Branch C** is identified as the top-performing branch.
+- Revenue is distributed relatively evenly between **Member** and **Normal** customers.
+- The dashboard enables analysis of **revenue, quantity, tax, products, customers, branches, cities, and gender** through interactive filters.
 
 ## Project Outcome
 
-The project transforms raw supermarket sales data into interactive Excel dashboards that provide a consolidated view of sales, revenue, products, customers, branches, cities, and business performance.
+The project transforms supermarket sales data into interactive Excel dashboards that provide a consolidated view of sales, revenue, products, customers, branches, cities, and business performance.
 
 The project demonstrates practical skills in:
 
